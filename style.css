@@ -91,13 +91,15 @@ margin-right: 150px;
 }
 .dev{
     margin-right:50px;
+    padding-left: 5%;
     background-image: url(shapes/shape-5.png);
-    background-size: 42%;
+    background-size: 38%;
     background-repeat: no-repeat;
     background-position: right;
+    background-position-x: 70%;
     
 }
-.dev img{
+.dev1 img{
     height: 300px;
     margin-left: 200px;
 }
@@ -161,10 +163,10 @@ margin-right: 150px;
 }
 footer{
     text-align: center;
-    background-image: url(shapes/footer-curve-btm.png);
+    background-image: url(https://www.pngkey.com/png/full/436-4363937_coins-landing-skyline-footer-city.png);
     background-position: center;
-    background-repeat: no-repeat;
-    background-size: 100%;
+   
+    background-size: 40%;
     margin: 0%;
     
 }
