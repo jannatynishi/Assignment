@@ -1,0 +1,169 @@
+body{
+    font-family: 'Oswald', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+.heading{
+    border-left: 5px solid;
+    border-image-slice:1 ;
+    border-image: linear-gradient(#df6e04, #f0e110)5;
+   
+}
+.orange{
+    color: rgb(228, 118, 40);
+}
+section{
+    display: flex;
+    
+}
+.section1{
+    background-image: url(shapes/271607954_228827499323945_2219066752938084316_n.png);
+    background-size: 48%;
+   background-repeat: no-repeat;
+   background-position-x: 23%;
+   background-position-y: 75%;
+}
+.container{
+    align-items:center;
+    text-align: center; 
+    
+}
+.width1{
+    margin: 20px;
+    margin-left: 200px;
+    
+}
+.width1 img
+{
+height: 250px;
+margin-right: 150px;
+
+}
+.lb1{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(196, 81, 36) ,rgb(202, 150, 53));
+    border-radius: 5px;
+    padding: 5px 20px;
+    color: cornsilk;
+    font-weight: 700;
+
+}
+
+.left{
+   
+    background-color: rgb(226, 250, 233);
+    flex: 1;
+    border-radius: 20px;
+    margin-left: 200px;
+    padding: 10px;
+   
+}
+.middle{
+    flex: 1;
+    
+    background-color: rgb(243, 233, 243);
+    border-radius: 20px;
+    margin-left: 20px;
+    padding: 10px;
+   
+}
+.right{
+    flex: 1;
+    
+    background-color: rgb(245, 247, 220);
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 200px;
+    padding: 10px;
+}
+.title{
+    text-align: center;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+.left img{
+    height: 200px;
+}
+.right img{
+    height: 200px;
+}
+.middle img{
+    height: 200px;
+
+}
+.dev{
+    margin-right:50px;
+    background-image: url(shapes/shape-5.png);
+    background-size: 42%;
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.dev img{
+    height: 300px;
+    margin-left: 200px;
+}
+.bg{
+    background-image: url(shapes/shape-1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+   background-size: 15%;
+   background-position-x: 10%;
+}
+.pera{
+    padding-right:100px;
+    margin-right: 20px;
+}
+.div4{
+    margin: 20px;
+    margin-left: 170px;
+    padding-top: 60px;
+    background-image: url(shapes/pink-pure-italian-linen-round-tablecloth_2.jpg);
+    background-position-x: 10%;
+    background-size: 57%;
+    background-repeat: no-repeat;
+    background-position-y: 0%;
+    background-position: left;
+}
+.div5 img{
+    height: 300px;
+    margin: 50px;
+    margin-right: 150px;
+}
+.bg1{
+    background-image: url(shapes/shape-1.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 13%;
+    background-position-y:100%;
+    background-position-x:95% ;
+}
+.div7{
+    margin:20px;
+    margin-right: 150px ;
+    padding-top: 130px;
+    padding-left: 50px;
+    background-image: url(shapes/eee-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position-y:30px;
+    background-position-x: 200%;
+}
+.div6 img{
+    height: 500px;
+    margin-left: 250px;
+}
+.bg3{
+    background-image: url(shapes/shape-3.png);
+    background-repeat: no-repeat;
+   
+    background-position-x: 18%;
+    background-size: 10%;
+
+}
+footer{
+    text-align: center;
+    background-image: url(shapes/footer1.png);
+    
+}
+.white{
+    color: rgb(10, 10, 10);
+    text-shadow: 2px 2px #f0ebeb;
