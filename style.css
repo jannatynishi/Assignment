@@ -161,7 +161,11 @@ margin-right: 150px;
 }
 footer{
     text-align: center;
-    background-image: url(shapes/footer1.png);
+    background-image: url(shapes/footer-curve-btm.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0%;
     
 }
 .white{
