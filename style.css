@@ -47,7 +47,9 @@ margin-right: 150px;
     font-weight: 700;
 
 }
-
+a:hover{
+    color: black;
+}
 .left{
    
     background-color: rgb(226, 250, 233);
